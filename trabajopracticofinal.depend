@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1653861063 source:c:\users\jairo silva\desktop\tecnicatura en programacion\1 cuatrimestre\programacion\ejemploscalses\trabajopracticofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CLIENTES.h"
+	"CONSUMOS.h"
+
+1653861021 source:c:\users\jairo silva\desktop\tecnicatura en programacion\1 cuatrimestre\programacion\ejemploscalses\trabajopracticofinal\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CLIENTES.h"
+	"CONSUMOS.h"
+
+1653700720 source:c:\users\jairo silva\desktop\tecnicatura en programacion\1 cuatrimestre\programacion\ejemploscalses\trabajopracticofinal\consumos.c
+
+1653861015 c:\users\jairo silva\desktop\tecnicatura en programacion\1 cuatrimestre\programacion\ejemploscalses\trabajopracticofinal\clientes.h
+
+1653769196 c:\users\jairo silva\desktop\tecnicatura en programacion\1 cuatrimestre\programacion\ejemploscalses\trabajopracticofinal\consumos.h
+
